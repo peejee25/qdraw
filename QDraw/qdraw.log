@@ -1,0 +1,8 @@
+Line 28: Class ComctlLib.Toolbar of control Toolbar2 was not a loaded control class.
+Line 40: Class ComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 35: The property name _ExtentX in Toolbar2 is invalid.
+Line 36: The property name _ExtentY in Toolbar2 is invalid.
+Line 38: The property name _Version in Toolbar2 is invalid.
+Line 47: The property name _ExtentX in Toolbar1 is invalid.
+Line 48: The property name _ExtentY in Toolbar1 is invalid.
+Line 50: The property name _Version in Toolbar1 is invalid.
